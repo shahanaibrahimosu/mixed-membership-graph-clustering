@@ -1,7 +1,7 @@
 This code is developed for "**Mixed Membership Graph Clustering via Systematic Edge Query**" - Shahana Ibrahim, Xiao Fu.         
+=========================================================================================================================
 
 If you have troubles running the code, or find any bugs, please report to Shahana Ibrahim (ibrahish@oregonstate.edu)
-=========================================================================================================================
 
 Main Files : 
 
