@@ -8,7 +8,9 @@ Main Files :
 main_synthetic_bequec.m
 ----------------------
 -> This script is used to test the proposed method under a non-diagonal EQP pattern (Table II).
+
 -> The flag "display_pattern" can be turned on to display the EQP pattern. 
+
 -> The flag "flag_noise" can be set to 0 for the ideal case and 1 for the binary observation case. 
 
 
